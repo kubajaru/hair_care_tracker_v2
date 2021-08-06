@@ -1,4 +1,4 @@
-# restaurant
+# Hair Care Tracker
 
 A new Flutter project.
 
